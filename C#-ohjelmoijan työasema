@@ -1,0 +1,25 @@
+Työasema on toteutettu VMWare-virtuaalikoneen avulla. Siinä on seuraavat asetukset:
+
+Asetus |	Arvo
+VMWare versio | 17.0
+RAM	| 4 GB
+Ytimet | 2
+Levytila | 100 GB
+Verkko | NAT
+Käyttöjärjestelmä
+Käyttöjärjestelmänä on Windows 10 pro 22H2. Asennusmedia löytyy Rasekon verkosta seuraavasta polusta:
+
+\\10.66.0.162\image Kirjautuminen tehdään käyttäjätunnuksella fileread ja salasanaa Q2werty käyttämällä.
+
+Virtuaalikoneen käyttäjäksi luodaan paikallinen käyttäjätunnus omalla nimellä, esim. MikaV
+
+Sovellukset
+Virtuaalikoneeseen asennettiin seuraavat sovellukset:
+
+Sovellus | Käyttötarkoitus | Latausosoite
+ShareX | Kuvaruutukaappaus ja kuvien editointi | https://getsharex.com/
+Draw.io Desktop | Kaavioiden piirto-ohjelma | https://github.com/jgraph/drawio-desktop
+Github Desktop | Työpöytäsovellus versiohallintaan | https://desktop.github.com/
+Visual Studio Code | Koodieditori | https://code.visualstudio.com/
+Git	Versionhallintaohjelma | https://git-scm.com
+Visual Studio Community edition | Microsoft kehitysympäristö C#-ohjelmointiin | https://visualstudio.microsoft.com/vs/community/
